@@ -27,6 +27,6 @@
 
 <!-- [![Namrata's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=namratabose32&theme=xcode)](https://github.com/namratabose32) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namratabose32&show_icons=true&locale=en" alt="namratabose32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyamishra1908&show_icons=true&locale=en" alt="namratabose32" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namratabose32&" alt="namratabose32" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyamishra1908&" alt="divyamishra1908" /></p>
